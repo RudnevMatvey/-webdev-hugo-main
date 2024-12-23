@@ -1,0 +1,4 @@
+baseURL = 'http://localhost.org/'
+languageCode = 'ru'
+title = 'обитатели дельфинария'
+theme = 'ananke'
